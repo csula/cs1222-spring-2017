@@ -11,38 +11,38 @@
 
 ## Course Information
 
-
 ### Objectives
 
 Upon completion of **CS1222** students will be to:
 
-
 ### Prerequisites
 
-- Computer Literacy
-
 ### Textbooks
+
+- Beaulieu, Alan.  **Learning SQL, Second Edition**.  O'Reilly Media, 2009.  Purchase from [Amazon](https://www.amazon.com/Learning-SQL-Master-Fundamentals/dp/0596520832).
+
+- Ullman, Jefferey and Jennifer Widom.  **A First Course in Database Systems (3rd Edition)**.  Purchase from [Amazon](https://www.amazon.com/First-Course-Database-Systems-3rd/dp/013600637X) (Optional).
 
 ## Schedule
 
 | Week | Date       | Reading | Topics |
 | ---- | ---        | ---     | ---    |
-| 1    | 1/24, 1/26 |  | Introduction and Relational Databases|
-| 2    | 1/31, 2/2  |  | XML Data |
-| 3    | 2/7, 2/9   |  | JSON Data |
-| 4    | 2/14, 2/16 |  | Relational Algebra |
-| 5    | 2/21, 2/23 |  | SQL |
-| 6    | 2/28, 3/2  |  | XPath and XQuery |
-| 7    | 3/7, 3/9   |  | Relational Design Theory |
-| 8    | 3/14, 3/16 |  | Unified Modeling Language |
+| 1    | 1/24, 1/26 | Chapter 1 | Introduction and Relational Databases |
+| 2    | 1/31, 2/2  | None | Relational Algebra, XML Data & JSON Data; XPath and XQuery |
+| 3    | 2/7, 2/9   | Chapter 2 | Creating and Populating DB|
+| 4    | 2/14, 2/16 | Chapter 3 | Query Primer |
+| 5    | 2/21, 2/23 | Chapter 4,5 | Filter & Multiple Table Queries |
+| 6    | 2/28, 3/2  | Chapter 6 | SQL: Sets |
+| 7    | 3/7, 3/9   | - | Relational Design Theory; Unified Modeling Language |
+| 8    | 3/14, 3/16 | Chapter 8,9,10 | Grouping, Subqueries, Joins |
 | 9    | 3/21, 3/23 |  | Project Design; Midterm |
 | 10   | 3/28, 3/30 | - | Spring Recess |
-| 11   | 4/4, 4/6   |  | Indexes and Transactions |
-| 12   | 4/11, 4/13 |  | Constraints and Triggers |
-| 13   | 4/18, 4/20 |  | Views and Authorization |
-| 14   | 4/25, 4/27 |  | On-Line Analytical Processing |
-| 15   | 5/2, 5/4   |  | Advanced SQL tooling |
-| 16   | 5/9, 5/11  |  | Alternative Database Technologies |
+| 11   | 4/4, 4/6   | Chapter 11, 13 | Conditional Logic; Indexes and Transactions |
+| 12   | 4/11, 4/13 | Chapter 13 | Constraints and Triggers |
+| 13   | 4/18, 4/20 | Chapter 14 | Views and Authorization |
+| 14   | 4/25, 4/27 | - | On-Line Analytical Processing |
+| 15   | 5/2, 5/4   | - | Advanced SQL tooling |
+| 16   | 5/9, 5/11  | - | Alternative Database Technologies |
 | *    | 5/16       | - | Final Exam |
 
 The schedule is subject to change depending on the class dynamics.
@@ -60,8 +60,8 @@ Four homework will be given, which should be done individually.  For the program
 
 #### Exams
 
-* Midterm:
-* Final Exam: May 16, 2017 3:40pm - 5:40pm.
+* Midterm: March 23, 2017 5:00pm - 5:50pm. Covers Chapters 1-10.
+* Final Exam: May 16, 2017 3:40pm - 5:40pm. Covers 11-14.
 
 #### Class Participation
 
