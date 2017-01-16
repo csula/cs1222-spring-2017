@@ -11,9 +11,20 @@
 
 ## Course Information
 
+A database is nothing more than a set of related information.  SQL or Structured Query Language is a time-tested all-purpose programming and operational language for manipulating database management systems or DBMS.  This course introduces students to both the theoretical and pragmatic aspects of database design and management.  It **does not** address the architecture or design of a DBMS.
+
 ### Objectives
 
-Upon completion of **CS1222** students will be to:
+Upon completion of **CS1222** students will:
+
+- Have an overview of relational database design and theory
+- Understand DBMS queries and subqueries
+- Understand set as it is related to DBMS
+- Understand constraints and triggers
+- Understand views and authorization
+- Be able to create and manipulate database
+- Be able to perform aggregate operations, e.g. joins and grouping
+- Be aware of alternative database technologies, e.g. NoSQL
 
 ### Prerequisites
 
