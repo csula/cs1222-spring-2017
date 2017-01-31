@@ -11,6 +11,8 @@ This course is based on the Stanford University Database course, with some addit
 
 Please refer to the [syllabus](SYLLABUS.md) for more information on the administrative guideline.
 
+Important course news and announcements are posted here, so please check this `README.md` file regularly.
+
 ## Announcements
 
-Important course news and announcements are posted here, so please check this `README.md` file regularly.
+- **1/30/2017** Discussion board is up.  Please visit [https://gitter.im/cs1222-spring-2017/Lobby](https://gitter.im/cs1222-spring-2017/Lobby) for real-time web development excitement.
