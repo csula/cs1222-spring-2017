@@ -16,3 +16,5 @@ Important course news and announcements are posted here, so please check this `R
 ## Announcements
 
 - **1/30/2017** Discussion board is up.  Please visit [https://gitter.im/cs1222-spring-2017/Lobby](https://gitter.im/cs1222-spring-2017/Lobby) for real-time web development excitement.
+
+- **2/7/2017** I am really sick today -- cannot make it to class.  Therefore, class is canceled.  Please discuss on the gitter if you have questions.
