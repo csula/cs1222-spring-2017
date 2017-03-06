@@ -3,8 +3,8 @@
 ## Logistics
 
 * Meeting time and location:
-  * Lecture: Tuesday/Thursday, 5:00pm - 5:50pm, E&T B9
-  * Lab: Thursday, 2:30pm - 5pm, E&T A210
+    * Lecture: Tuesday/Thursday, 5:00pm - 5:50pm, E&T B9
+    * Lab: Thursday, 2:30pm - 5pm, E&T A210
 * Instructor: John Tran
 * Office Hours: Thursday 12:30pm - 2:30pm, JFK Library 2097 or by appointment
 * Contact Information: johnjtran@icloud.com
