@@ -18,3 +18,14 @@ Important course news and announcements are posted here, so please check this `R
 - **1/30/2017** Discussion board is up.  Please visit [https://gitter.im/cs1222-spring-2017/Lobby](https://gitter.im/cs1222-spring-2017/Lobby) for real-time web development excitement.
 
 - **2/7/2017** I am really sick today -- cannot make it to class.  Therefore, class is canceled.  Please discuss on the gitter if you have questions.
+
+- **3/6/2017** Please note that I have to travel conflict with lecture schedule this week.  You will need to watch the following videos:
+
+  - Les Bell's [Creating and Querying a Database Schema with MySQL Workbench](https://youtu.be/EL39BGSUkzw).  This video will give students a more comprehensive tutorial on the various features of a MySQL workbench.
+
+  - Edward Kench's [SQL Outer Joins and Cross Joins Tutorial](https://youtu.be/3t2X1jczt4g).
+
+  - Edward Kench's [SQL Inner Join Multiple Tables with SUM Tutorial](https://youtu.be/NuJn9TVCuK0).
+
+Note that Ed Kench's videos are specific to Microsoft SQL server.  However, we can easily adapt them to MySQL.
+
