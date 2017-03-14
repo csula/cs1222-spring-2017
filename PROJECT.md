@@ -1,5 +1,10 @@
 # SQL project
 
+* Due: 5/11 -- late project not accepted
+* Up to two students may collaborate; please be prepared to discuss individual contributions
+
+(note that this is work in progress we will flush out the details as the semester progresses)
+
 Consider two canonical large databases:
 
 - The [World Database](world.zip) (real data)
