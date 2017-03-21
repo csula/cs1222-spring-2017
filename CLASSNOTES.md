@@ -1,6 +1,6 @@
 # Topics in SQL Relational Database Systems
 
-## Background (Widom video)
+## Background (Widom Lectures)
 
 - What is SQL?
 - What is a relational model
