@@ -9,27 +9,21 @@ Please load `world.sql` into your MySQL database.  Run queries to answer the fol
 
 Each question below is worth 1 point
 
-- For each country, show the city with the largest population.
-- Show the total population for each continent.
-- What is the average global life expectancy?
-- In order from largest to smallest, provide a combined list of city name and country name and their respective population. 
+1. What is the what is the geographically largest country in the world?
+2. What is the average global life expectancy?
+3. Show the total population for each continent.
+4. For each continent, show the city with the largest population.
 
-Each question below is worth 3 point
+Each question below is worth 2 points
 
 Consider the following article by Baron Schwartz: [How to select the first/least/max row per group in SQL](https://www.xaprb.com/blog/2006/12/07/how-to-select-the-firstleastmax-row-per-group-in-sql/)
 
-- For each country determine the 2 city with the largest population.
-- For each continue determine the 2 geographically largest countries.
+1. For each country determine the 2 city with the largest population.
+2. For each continue determine the 2 geographically largest countries.
+3. In order from largest to smallest, provide a combined list of top 10 city name and country name and their respective population. 
 
-## Grading Scale/Criteria
-
-* 5 completed correctly + enhancements
-* 4 all requirements are met
-* 3 all but a few requirements are met
-* 2 significant number of requires are missing
-* 0 not completed
 
 ## Submission
 
-Students will need to demonstrate their homework assignment in class and provide a printout of the query and answer.  On the printout you must include your name, query and answer.
+Printout of the query for each question and the corresponding answer.  On the printout you must include your name, query and answer.
 
