@@ -15,6 +15,7 @@ Important course news and announcements are posted here, so please check this `R
 
 ## Announcements
 
+- **3/21/2017** I've posted [Class Notes](CLASSNOTES.md).  Hopefully this will help you prepare for the midterm.  Once again, the format of the exam is consited of two parts: short answers and progamming.  You can have one note sheet for the short answers part but everything is close.  For the programming part, it's openbook.
 
 - **3/6/2017** Please note that I have to travel conflict with lecture schedule this week.  You will need to watch the following videos:
 
