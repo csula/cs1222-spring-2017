@@ -27,7 +27,7 @@
 ## Filtering
 
 - Condition precedence
-  - Paratheses
+  - Parentheses
   - `NOT` operator
 - Search Types
   - Equality
