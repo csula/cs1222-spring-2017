@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 
 * Due: 4/4 -- late homework not accepted
 * Up to two students may collaborate; please be prepared to discuss individual contributions
