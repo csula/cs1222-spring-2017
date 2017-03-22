@@ -51,7 +51,7 @@
 
 - `GROUP BY` theory and practice
 - Aggregate functions
-  - Mix & max
+  - Min & max
   - Avg & Sum
 - Counting
 
