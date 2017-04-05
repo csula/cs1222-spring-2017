@@ -1,0 +1,25 @@
+1. Solution 1:
+SELECT name, population
+  FROM country
+  WHERE continent = 'asia'
+  ORDER BY population DESC
+  LIMIT 1;
+
+1. Solution 2:
+SELECT a.name, a.population 
+  FROM country a, country b 
+  GROUP BY a.name, a.population 
+  HAVING MAX(b.population) = a.population;
+
+Question 2:
+SELECT CountryCode, MAX(population), name
+  FROM city
+  GROUP BY CountryCode
+
+Question 3:
+SELECT population, name
+  FROM city
+  UNION
+  SELECT population, name
+  FROM country
+  ORDER by name
