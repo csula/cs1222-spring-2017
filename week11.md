@@ -2,7 +2,7 @@
 
 Purpose: SQL logic to branch in one direction or another depending on the values of certain columns or expressions. Take different paths in a query depending on the value of the column.
 
-Example: when querying customer information, want to re- trieve either the fname/lname columns from the individual table or the name column from the business table depending on what type of customer is encountered.
+Example: when querying customer information, want to retrieve either the fname/lname columns from the individual table or the name column from the business table depending on what type of customer is encountered.
 
 
 ### CASE Expressions
@@ -115,8 +115,10 @@ SELECT
    SUM(CASE
          WHEN EXTRACT(YEAR FROM open_date) = 2001 THEN 1 
          ELSE 0
-       END) year_2001, SUM(CASE
+       END) year_2001, 
+   SUM(CASE
    ...
+   END) year_2005
    FROM account
    WHERE open_date > '1999-12-31' AND open_date < '2006-01-01';
 ```
@@ -125,7 +127,7 @@ Exercise: fill in the `...`
 
 ### Check EXISTS
 
-If we need to determine whether a relationship exists between two en- tities without regard for the quantity.  Let's go back to our example from earlier:
+If we need to determine whether a relationship exists between two entities without regard for the quantity.  Let's go back to our example from earlier:
 
 Question: determine if a customer has a check account, and a savings account.  Answer `Y` or `N` for the two columns.
 
