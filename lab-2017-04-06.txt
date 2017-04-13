@@ -1,0 +1,25 @@
+1. query for all accounts opened by 
+experience tellers (*) currently
+assigned to the Woburn branch;
+
+* means hired prior to 2004...
+
+
+SELECT a.account_id, a.open_emp_id, 
+   e.fname, e.lname
+FROM account a 
+JOIN employee e
+JOIN branch b
+WHERE a.open_emp_id = e.emp_id
+AND e.start_date < '2004-01-01'
+AND b.name like 'Woburn Branch';
+
+
+2. query for names of employees and their
+managers.
+
+
+SELECT e.fname, e.lname, m.fname, m.lname
+  FROM employee AS e
+  JOIN employee AS m
+  ON e.superior_emp_id = m.emp_id;
