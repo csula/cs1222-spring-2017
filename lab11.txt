@@ -1,3 +1,5 @@
+PART 1:
+
 SELECT
   SUM(CASE open_branch_id
         WHEN 1 THEN 1
@@ -16,4 +18,19 @@ SELECT
         ELSE 0
 	  END) branch_4
   FROM account;
+
+PART 2:
+
+SELECT emp_id, 
+	CASE 
+		WHEN title LIKE '%president'
+		  OR title LIKE 'treasurer'
+          OR title LIKE 'loan manager' 
+          THEN 'management'
+		WHEN title LIKE '%teller'
+		  OR title LIKE 'operations manager'
+          THEN 'operations'
+        ELSE 'Unknown'
+    END title
+FROM employee;
 
