@@ -59,13 +59,13 @@ Note that this is will be useful for queries that specify the first and last nam
 
 ### B-tree Indexes
 
-![b-tree)(resources/images/b-tree.png)
+![b-tree](resources/images/b-tree.png)
 
 ### Bitmap Indexes
 
 For columns that contain only a small number of values across a large number of rows (known as low-cardinality data), a different indexing strategy is needed.
 
-![b-tree)(resources/images/bitmap.png)
+![b-tree](resources/images/bitmap.png)
 
 ### Text Indexes
 
