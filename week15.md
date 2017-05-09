@@ -1,5 +1,5 @@
 
-## To import 
+## To import
 
 Type
 
@@ -17,3 +17,23 @@ We will do lab based on the tutorial found here on [docs.mongodb.com](https://do
 ```
 db.restaurants.find( { "name" : {$regex : "[Tt]ito"} } );
 ```
+
+
+### Addition MongoDB Exercises
+
+To find restaurants with a score in the range 80 to 100.
+
+```
+db.restaurants.find({grades : { $elemMatch:{"score":{$gt : 80 , $lt :100}}}});
+```
+
+
+To display the fields `restaurant_id`, `name`, `borough` and `cuisine`.
+
+```
+db.restaurants.find({},{"restaurant_id" : 1,"name":1,"borough":1,"cuisine" :1});
+```
+
+Recall that the `find()` parameters are `find(filter [, projection])`
+
+Find all the `White Castle` restaurants in `Queens`
