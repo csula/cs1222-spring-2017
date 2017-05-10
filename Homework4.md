@@ -15,7 +15,7 @@ Using `restaurants` database answer the following:
 
 4. Write a MongoDB query to find the restaurants which do not prepare any cuisine of 'American' and achieved a score more than 70
 
-5. Write a MongoDB query that changes all the restaurants that serves Italian to Chinese
+5. Write a MongoDB query that changes all the restaurants that serve Italian to Chinese
 
 ## Submission
 
