@@ -15,6 +15,8 @@ Important course news and announcements are posted here, so please check this `R
 
 ## Announcements
 
+- **5/10/2017** [Study Guide](STUDYGUIDE.md) has been posted.
+
 - **3/21/2017** I've posted [Class Notes](CLASSNOTES.md).  Hopefully this will help you prepare for the midterm.  Once again, the format of the exam is consited of two parts: short answers and progamming.  You can have one note sheet for the short answers part but everything is close.  For the programming part, it's openbook.
 
 - **3/6/2017** Please note that I have to travel conflict with lecture schedule this week.  You will need to watch the following videos:
@@ -30,4 +32,3 @@ Note that Ed Kench's videos are specific to Microsoft SQL server.  However, we c
 - **2/7/2017** I am really sick today -- cannot make it to class.  Therefore, class is canceled.  Please discuss on the gitter if you have questions.
 
 - **1/30/2017** Discussion board is up.  Please visit [https://gitter.im/cs1222-spring-2017/Lobby](https://gitter.im/cs1222-spring-2017/Lobby) for real-time web development excitement.
-
